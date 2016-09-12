@@ -10,8 +10,8 @@ subtitle: 'A thingie I did.'
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 #    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
 
-path:  /jekyll-starter-theme
-url:   http://jamiemramos.github.io/jekyll-starter-theme
+path:  '/jekyll-starter-theme'
+url:   'http://jamiemramos.github.io/jekyll-starter-theme'
 
 
 #########################
