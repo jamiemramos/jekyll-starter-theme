@@ -11,7 +11,7 @@ subtitle: 'A thingie I did.'
 #    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
 
 path:  '/jekyll-starter-theme'
-url:   'http://github.io/jekyll-starter-theme/jmramos'
+url:   'http://github.io/jamiemramos/jekyll-starter-theme'
 
 
 #########################
